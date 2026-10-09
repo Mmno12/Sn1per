@@ -1,4 +1,5 @@
 
+
 [![Sn1per](https://sn1persecurity.com/wordpress/wp-content/uploads/2026/04/sn1per-professional-2026-hero-banner.png)](https://sn1persecurity.com/wordpress/product/sn1per-professional-2026-license/)
 
 [![GitHub release](https://img.shields.io/github/release/1N3/Sn1per.svg)](https://github.com/1N3/Sn1per/releases)
